@@ -1,5 +1,3 @@
-# 01_engenharia_requisitos_aula_introdutoria.md
-
 ## Conquista
 Compreensão abrangente dos fundamentos de Engenharia de Requisitos através de aula teórica e preparação para atividade prática em grupo.
 
